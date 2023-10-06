@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55d32cbe-85fe-4b2c-852b-920b8faf2863" name="Changes" comment="deleted .xml files">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="55d32cbe-85fe-4b2c-852b-920b8faf2863" name="Changes" comment="Merge Sort">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +71,7 @@
       <updated>1696512395275</updated>
       <workItem from="1696512396597" duration="1554000" />
       <workItem from="1696513959658" duration="5808000" />
+      <workItem from="1696580105426" duration="64000" />
     </task>
     <task id="LOCAL-00001" summary="deleted .xml files">
       <option name="closed" value="true" />
@@ -80,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696578051560</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Merge Sort">
+      <option name="closed" value="true" />
+      <created>1696579614028</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696579614028</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +115,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Selection Sort Project" />
     <MESSAGE value="deleted .xml files" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleted .xml files" />
+    <MESSAGE value="Merge Sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge Sort" />
   </component>
 </project>
