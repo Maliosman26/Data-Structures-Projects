@@ -108,6 +108,8 @@ dizisinin Binary Search Tree aşamalarını yazınız.
 Örnek: root x'dir. Root'un sağından y bulunur. Solunda z bulunur vb.
 
 ```
+Answer: 
+
 Root x = 6
                              6
                            /   \ 
